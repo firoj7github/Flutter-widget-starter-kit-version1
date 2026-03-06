@@ -31,22 +31,6 @@ class _StackPracticsState extends State<StackPractics> {
         ],
       ),
 
-      // body: Stack(
-      //   alignment: AlignmentGeometry.center,
-      //   children: [
-      //     Container(
-      //       width: 50,
-      //       height: 50,
-      //       color: Colors.deepOrangeAccent,
-      //     ),
-      //     Container(
-      //       width: 10,
-      //       height: 10,
-      //       color: Colors.deepPurpleAccent,
-      //     )
-      //   ],
-      // ),
-
       body: Stack(
         alignment: AlignmentGeometry.center,
         children: [
